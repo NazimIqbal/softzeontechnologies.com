@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Replace YOUR-USERNAME with your GitHub username after deployment. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://YOUR-USERNAME.github.io/softzeon-website/</loc></url>
+  <url><loc>https://YOUR-USERNAME.github.io/softzeon-website/home.html</loc></url>
+  <url><loc>https://YOUR-USERNAME.github.io/softzeon-website/about.html</loc></url>
+  <url><loc>https://YOUR-USERNAME.github.io/softzeon-website/services.html</loc></url>
+  <url><loc>https://YOUR-USERNAME.github.io/softzeon-website/rnd.html</loc></url>
+  <url><loc>https://YOUR-USERNAME.github.io/softzeon-website/contact.html</loc></url>
+</urlset>

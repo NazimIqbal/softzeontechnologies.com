@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Replace this placeholder with your actual GitHub Pages URL after deployment.
+# Sitemap: https://YOUR-USERNAME.github.io/softzeon-website/sitemap.xml
